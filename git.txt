@@ -1,0 +1,13 @@
+SVN
+Git
+
+1) cerntralized version controlling
+2) distributed version controlling
+
+
+
+Github
+
+Heloo my name is kamal
+
+
