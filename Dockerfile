@@ -9,5 +9,5 @@ RUN ls -lhrt /app/target
 FROM openjdk:8-jre
 WORKDIR /app
 COPY --from=BUILD_IMAGE /app/target/springbootdemo-0.0.1-SNAPSHOT.jar .
-EXPOSE 9000
+EXPOSE 8200
 CMD ["java", "-jar", "springbootdemo-0.0.1-SNAPSHOT.jar"]
