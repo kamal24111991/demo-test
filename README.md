@@ -1,6 +1,5 @@
 ## Java Demo Application 
-demo class
-demo-test repository 
+demo class 
 
 ## Operating System
 Ubuntu18
