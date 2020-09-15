@@ -2,5 +2,5 @@
 demo class
 demo-test repository 
 
-##Build Command
+## Build Command
  mvn clean install
