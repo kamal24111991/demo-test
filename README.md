@@ -1,4 +1,4 @@
-## Java Demo Application 
+## Maven based sringboot java Demo Project JAR
 demo class 
 
 ## Operating System
