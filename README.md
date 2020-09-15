@@ -1,4 +1,4 @@
-## demo-test 
+## Java Demo Application 
 demo class
 demo-test repository 
 
