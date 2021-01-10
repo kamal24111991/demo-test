@@ -1,4 +1,4 @@
-FROM maven:3.5-jdk-8-alpine AS BUILD_IMAGE
+FROM maven:3.6-jdk-8-alpine AS BUILD_IMAGE
 WORKDIR /app
 COPY . /app
 RUN mvn install -DskipTests
